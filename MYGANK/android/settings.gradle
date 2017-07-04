@@ -1,0 +1,3 @@
+rootProject.name = 'MYGANK'
+
+include ':app'
